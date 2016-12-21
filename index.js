@@ -1,6 +1,6 @@
 const backgroundColor = '#002b36'
 const foregroundColor = '#839496'
-const cursorColor = 'rgba(181, 137, 0, 0.6)'
+const cursorColor = 'rgba(255, 255, 255, 0.4)'
 const borderColor = 'transparent'
 
 const colors = {
